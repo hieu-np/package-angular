@@ -1,0 +1,11 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "description": "",
+  "main": "card-element.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hieu.nguyen@zaitenllc.com",
+  "license": "ISC"
+}
