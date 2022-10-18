@@ -1,11 +1,18 @@
 {
-  "name": "button",
+  "name": "buttondemo1810",
   "version": "1.0.0",
-  "description": "",
+  "description": "button bootstrap",
   "main": "card-element.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hieu-np/package-angular"
+  },
+  "keywords": [
+    "shadow"
+  ],
   "author": "hieu.nguyen@zaitenllc.com",
   "license": "ISC"
 }
